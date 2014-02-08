@@ -27,9 +27,9 @@ OpenSpending.Styles.Cofog = {
   '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
   '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
   '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '12-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '12-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
   '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
@@ -39,7 +39,7 @@ OpenSpending.Styles.Cofog = {
   '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
   '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '13-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '13-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
   '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
   '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
   '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
