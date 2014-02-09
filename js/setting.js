@@ -18,32 +18,32 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* hikari cofog */
-  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
-  '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-  '12': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '12-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '6-1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '13': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '13-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
-  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '11': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '11-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '3': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '301': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#4E6D00' },
+  '8': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#C75746' },
+  '801': { icon: 'icons/construction.svg', color: '#C75746', bcolor: '#C75746' },
+  '2': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '201': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
+  '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
+  '401': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
+  '12': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
+  '1201': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+  '10': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' },
+  '1001': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#790586' }
+  '7': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#938626' },
+  '701': { icon: 'icons/admin.svg', color: '#C75746', bcolor: '#938626' },
+  '9': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
+  '901': { icon: 'icons/fire-brigade.svg', color: '#C75746', bcolor: '#D33673' },
+  '6': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '601': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#EC2406' },
+  '1': { icon: 'icons/courts.svg', color: '#C75746', bcolor: '#935B3B' },
+  '101': { icon: 'icons/courts.svg', color: '#C75746', bcolor: '#935B3B' },
+  '13': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' },
+  '1301': { icon: 'icons/money.svg', color: '#C75746', bcolor: '#790586' }
+  '5': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#2A3A03' },
+  '501': { icon: 'icons/misc-services.svg', color: '#C75746', bcolor: '#2A3A03'  },
+  '11': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#790586' },
+  '1101': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#790586' }
 };
 
 
